@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4132775 */
+  src: url('iconfont.woff2?t=1687315073983') format('woff2'),
+       url('iconfont.woff?t=1687315073983') format('woff'),
+       url('iconfont.ttf?t=1687315073983') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-diandan:before {
+  content: "\e60e";
+}
+
+.icon-tongji:before {
+  content: "\ec62";
+}
+
+.icon-wode_wode:before {
+  content: "\e62f";
+}
+

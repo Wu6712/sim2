@@ -1,0 +1,30 @@
+{
+  "id": "4132775",
+  "name": "点餐项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5172508",
+      "name": "点单",
+      "font_class": "diandan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "23949507",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "ec62",
+      "unicode_decimal": 60514
+    },
+    {
+      "icon_id": "26311614",
+      "name": "我的",
+      "font_class": "wode_wode",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}
